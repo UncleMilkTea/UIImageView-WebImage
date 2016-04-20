@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HYKReadAndWriteSandBox.h"
 
 @interface UIImageView (WebImage)
 

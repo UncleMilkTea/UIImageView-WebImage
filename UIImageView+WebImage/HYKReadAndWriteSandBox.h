@@ -12,10 +12,14 @@
 
 + (instancetype)sharedSandBox;
 
+//! 获取沙盒路径
+
 - (NSString *)getSandBoxWithUrl:(NSString *)urlStr;
+
 //! 写入沙盒数据
 
 - (void)writeSandBox:(NSData *)data andUrlStr:(NSString *)urlStr;
+
 //! 读取沙盒图片
 
 - (UIImage *)readFromSandBoxImage:(NSString *)urlStr;

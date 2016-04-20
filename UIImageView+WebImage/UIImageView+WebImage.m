@@ -8,7 +8,6 @@
 
 #import "UIImageView+WebImage.h"
 #import "HYKWebImageManager.h"
-#import "HYKReadAndWriteSandBox.h"
 #import "HYKDownLoadeWebImageOperation.h"
 
 @implementation UIImageView (WebImage)
