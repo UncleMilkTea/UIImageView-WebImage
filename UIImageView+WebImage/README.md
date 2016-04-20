@@ -4,9 +4,7 @@
 
 ## TODO
 
-导入头文件
-
-#import "UIImageView+WebImage.h"
+导入头文件  #import "UIImageView+WebImage.h"
 
 作为UIImageView的分类直接用imageView属性调用下面方法即可
 
